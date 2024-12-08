@@ -5,7 +5,6 @@ IT – 2102
 
 
 
-
 I. Project Overview
 The ElecTrack: Electricity Billing System is a Java-based application designed to manage electricity accounts for both residential and commercial users. The system allows users to register accounts, update customer information, input electricity usage, and display calculated bills based on the units consumed. The billing rate is set at 20 pesos per unit of electricity consumed. This application serves as a practical tool for utility companies to streamline their billing processes and improve customer service.
 
